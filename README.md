@@ -1,4 +1,4 @@
-# Anteproyecto-Parte1
+# Anteproyecto-Parte1 (:
 Esta es la primera parte del anteproyecto en el cual están las estadísticas iniciales, que dan forma al proyecto.
 
 # 0. INTRODUCCIÓN.
@@ -68,6 +68,8 @@ generando pequeños datasets en los cuales podemos investigar el comportamiento 
 de forma muy general enseñaremos la forma más fácil y eficiente de obtener los diferentes datos.
 
 Como ejemplo utlizaremos la columna Sexo, que cuenta con 2 variables. F o M 	por medio de la funcion def, crearemos un nuevo dataframe normalizado de forma booleana de los generos.
+
+```python
         #Creando la columna Femenino
     # Funcion generar genero femenino
         def generof(fila): 
@@ -152,10 +154,12 @@ df_gen_edad.head()
 
 ```python
 #Salida #link
-[![Encabezado del dataframe de salida](Imagenes "Encabezado del dataframe de salida")](http://github.com/milenabb88/Anteproyecto-Parte1/tree/master/Imagenes/DataFrameGeneroEdad.png "Encabezado del dataframe de salida")
+
+[![Encabezado](Imagenes "Encabezado")](http://github.com/milenabb88/Anteproyecto-Parte1/tree/master/Imagenes/DataFrameGeneroEdad.png "Encabezado")
 
 Por ultimo creamos un nuevo dataframe en el cual por medio del cual consolidamos la información.
 ##Link
-[![Dataframe de salida](imagenes Anteproyecto "Dataframe de salida")](http://https://github.com/milenabb88/Anteproyecto-Parte1/tree/master/Imagenes/Df_Recuperados.png "Dataframe de salida")
+
+[![Dataframe](imagenes Anteproyecto "Dataframe de salida")](http://https://github.com/milenabb88/Anteproyecto-Parte1/tree/master/Imagenes/Df_Recuperados.png "Dataframe")
 
 
